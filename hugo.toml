@@ -48,33 +48,16 @@ pluralizelisttitles = false
 # Top bar social links menu
 
 [[menu.topbar]]
-    weight = 1
-    name = "Phone"
-    url = "tel:+12 34 567 89 01"
-    pre = "<i class='fas fa-2x fa-phone'></i>"
-
-[[menu.topbar]]
     weight = 2
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/JeremyDrag"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
-[[menu.topbar]]
-    weight = 3
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:jdrag@millikin.edu"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -133,8 +116,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>I am a cyber security senior at Millikin University making this website as a capstone project.</p>"
+    copyright = "Copyright (c) 2024, Jeremy Drag; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -147,13 +130,9 @@ pluralizelisttitles = false
     logo = "img/logo1.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p class="text-uppercase"><strong>Jeremy Drag</strong>
+        <br>Senior | Cyber Security
+        <br>Millikin University | Class of 2025
       </p>
       """
 
@@ -163,7 +142,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at jdrag@Millikin.edu</p>
       <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -233,8 +212,6 @@ pluralizelisttitles = false
     subtitle = "Testing"
     hide_summary = false
 
-[params.footer.recent_posts]
-    enable = true
 
 [taxonomies]
   category = "categories"
