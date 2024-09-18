@@ -39,6 +39,11 @@ pluralizelisttitles = false
     identifier = "menu.portfolio"
     url        = "/portfolio/Gallary"
     weight     = 3
+[[menu.main]]
+    name       = "Resume"
+    identifier = "menu.Resume"
+    url        = "/resume/resume"
+    weight     = 4
 
 # Top bar social links menu
 
