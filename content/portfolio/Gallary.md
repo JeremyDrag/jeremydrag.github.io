@@ -35,7 +35,7 @@ draft = false
 </head>
 <body>
 
-<h2>Proposal Pictures</h2>
+<center><h2>Proposal Pictures</h2>
 
 <p>Click on button to open section</p>
 <button type="button" class="collapsible">Proposal</button>
@@ -43,9 +43,9 @@ draft = false
   <img src="/img/Proposal.png" alt="Proposal1">
   <img src="/img/Proposal2.png" alt="Proposal2">
 </div>
-<h2>Car Pictures</h2>
+<h2>Car Pictures</h2></center>
 
-<p>Click on button to open section</p>
+<center><p>Click on button to open section</p>
 <button type="button" class="collapsible">Cars</button>
 <div class="content" style="display: none;">
   <img src="/img/car1.png" alt="Car1">
@@ -59,7 +59,7 @@ draft = false
 <div class="content" style="display: none;">
   <img src="/img/an1.png" alt="Animals1">
   <img src="/img/an2.png" alt="Animals2">
-</div>
+</div></center>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
