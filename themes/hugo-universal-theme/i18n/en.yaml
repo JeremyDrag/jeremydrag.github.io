@@ -55,8 +55,7 @@
 - id: authorBy
   translation: "By"
 
-- id: recentPosts
-  translation: "Recent posts"
+
 
 - id: aboutUs
   translation: "About us"
