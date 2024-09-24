@@ -13,7 +13,7 @@
       <link>http://localhost:1313/resume/resume/</link>
       <pubDate>Wed, 18 Sep 2024 14:30:48 +0000</pubDate>
       <guid>http://localhost:1313/resume/resume/</guid>
-      <description>&lt;!DOCTYPE html&gt; Embed PDF Example </description>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;    &lt;title&gt;Embed PDF Example&lt;/title&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;    &lt;iframe src=&#34;http://localhost:1313/img/JeremyDragResume.pdf&#34; width=&#34;800&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>
 </rss>
