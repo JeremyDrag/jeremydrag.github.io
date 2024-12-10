@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capstone on </title>
+    <link>http://localhost:1313/capstone/</link>
+    <description>Recent content in Capstone on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 17:16:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/capstone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capstone</title>
+      <link>http://localhost:1313/capstone/capstone/</link>
+      <pubDate>Tue, 10 Dec 2024 17:16:15 +0000</pubDate>
+      <guid>http://localhost:1313/capstone/capstone/</guid>
+      <description>&lt;H1&gt;Nothing Here yet!&lt;/H1&gt; &#xA;&lt;H2&gt;this page will be updated when the capstone is completed&lt;/H2&gt;</description>
+    </item>
+  </channel>
+</rss>

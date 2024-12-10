@@ -45,6 +45,12 @@ pluralizelisttitles = false
     url        = "/resume/resume"
     weight     = 4
 
+[[menu.main]]
+    name       = "Captstone"
+    identifier = "menu.Capstone"
+    url        = "/capstone/capstone"
+    weight     = 5
+
 # Top bar social links menu
 
 [[menu.topbar]]
