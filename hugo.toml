@@ -46,7 +46,7 @@ pluralizelisttitles = false
     weight     = 4
 
 [[menu.main]]
-    name       = "Captstone"
+    name       = "Capstone"
     identifier = "menu.Capstone"
     url        = "/capstone/capstone"
     weight     = 5
