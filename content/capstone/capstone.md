@@ -3,5 +3,15 @@ title = 'Capstone'
 date = 2024-12-10T17:16:15Z
 draft = false
 +++
-<H1>Nothing Here yet!</H1> 
-<H2>this page will be updated when the capstone is completed!</H2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed PDF Example</title>
+</head>
+<body>
+    <iframe src="/img/FinalCapstone.pdf" width="800" height="700"></iframe>
+    
+</body>
+</html>
