@@ -13,7 +13,7 @@
       <link>http://localhost:1313/capstone/capstone/</link>
       <pubDate>Tue, 10 Dec 2024 17:16:15 +0000</pubDate>
       <guid>http://localhost:1313/capstone/capstone/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;    &lt;title&gt;Embed PDF Example&lt;/title&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;    &lt;iframe src=&#34;http://localhost:1313/img/FinalCapstone.pdf&#34; width=&#34;800&#34; height=&#34;700&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;H1&gt;Capstone Paper&lt;/H1&gt;&#xA;&lt;H4&gt;This document is a research capstone paper that goes into detail about the cloud as well as why some companies might not want to use the cloud in order to conduct buiness. This was produced in 2024 as part of a Seinor Honors capstone project.&lt;/H4&gt;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;    &lt;title&gt;Embed PDF Example&lt;/title&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;    &lt;iframe src=&#34;http://localhost:1313/img/FinalCapstone.pdf&#34; width=&#34;800&#34; height=&#34;700&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>test</title>
